@@ -1,0 +1,24 @@
+{
+  "name": "dockerise-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gbengacode/Dockerise-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gbengacode/Dockerise-react/issues"
+  },
+  "homepage": "https://github.com/Gbengacode/Dockerise-react#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
